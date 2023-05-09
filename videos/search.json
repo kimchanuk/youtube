@@ -1,0 +1,814 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tHp9ippej1YlMzYgTb7YectbvyU",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hTbUPM5axggwHCBJ42_Ud97tbaQ",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC4LeRw7pIZ_kseS4Krn_DQA"
+      },
+      "snippet": {
+        "publishedAt": "2007-04-11T14:48:03Z",
+        "channelId": "UC4LeRw7pIZ_kseS4Krn_DQA",
+        "title": "Big Ten Network",
+        "description": "A joint venture between the Big Ten Conference and Fox Networks, Big Ten Network is the first internationally distributed network ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqPltRe_hKNfqXDysEBdm-zTnEFHSPDBLj53rLegjw=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqPltRe_hKNfqXDysEBdm-zTnEFHSPDBLj53rLegjw=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqPltRe_hKNfqXDysEBdm-zTnEFHSPDBLj53rLegjw=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Big Ten Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-04-11T14:48:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e0pHiGlZ7Fzcoj90TljmFPyLfag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uL3uZplwsKs"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T18:15:03Z",
+        "channelId": "UC6hmAN2FLzB8-Fzzu7evKgA",
+        "title": "OMG: Er gesteht ihr seine wahren Gefühle?! 🫢🥰 |Berlin - Tag &amp; Nacht #2927",
+        "description": "Jonas Jonas hat sich in Lynn verliebt. Er traut sich ihr die Wahrheit zu sagen, doch wie regaiert sie? Und was wenn SIna davon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uL3uZplwsKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uL3uZplwsKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uL3uZplwsKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Berlin - Tag & Nacht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T18:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5tjoBNnCsBawWqDzfnbXtA6LyMs",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC6hmAN2FLzB8-Fzzu7evKgA"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-11T17:59:57Z",
+        "channelId": "UC6hmAN2FLzB8-Fzzu7evKgA",
+        "title": "Berlin - Tag & Nacht",
+        "description": "Diese WGs haben es in sich: Eifersucht, Liebe, Freud und Leid sind hier an der Tagesordnung! Irgendwas ist immer los, denn sie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/U5dMc9TIEZEAD8g8hIrZ_7H34XESKYDyexa3Do3CQwklYy8SpI_JpsybC7kQDJSRg30KSBp1=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/U5dMc9TIEZEAD8g8hIrZ_7H34XESKYDyexa3Do3CQwklYy8SpI_JpsybC7kQDJSRg30KSBp1=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/U5dMc9TIEZEAD8g8hIrZ_7H34XESKYDyexa3Do3CQwklYy8SpI_JpsybC7kQDJSRg30KSBp1=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Berlin - Tag & Nacht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-11T17:59:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e2C-25SAPDl6oM4EAosDIbRB_As",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-23T12:49:53Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "Behind the News",
+        "description": "For the past 50 years, BTN has been a world leader in children's news & kids news. As part of the Australian Broadcasting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/33oeH3o67a8RZMemG8HNoxlDBFwyTY101MSJWkwjxpBsVTTRk26rcF3emaQVmyejZUDUW_gNHLg=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/33oeH3o67a8RZMemG8HNoxlDBFwyTY101MSJWkwjxpBsVTTRk26rcF3emaQVmyejZUDUW_gNHLg=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/33oeH3o67a8RZMemG8HNoxlDBFwyTY101MSJWkwjxpBsVTTRk26rcF3emaQVmyejZUDUW_gNHLg=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-23T12:49:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wPTtjqLyBX5RLMfSh7CLVcRILjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xFPUa30JW-8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T07:39:57Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "Why SpaceX&#39;s Starship Rocket Exploded",
+        "description": "Just four minutes after lift-off, SpaceX's Starship rocket has exploded! Although it might not look like it, this was not necessarily a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xFPUa30JW-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xFPUa30JW-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xFPUa30JW-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T07:39:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zR6C82AHdsjjrARM5HVibKTUqGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ufg10Cu_8dw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-08T01:30:16Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "Prime Energy Drinks, do they have too much caffeine? - Behind the News",
+        "description": "Logan Paul's energy drink, Prime, has made headlines as a sell-out success around the world, and its sports drink version is flying ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ufg10Cu_8dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ufg10Cu_8dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ufg10Cu_8dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-08T01:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UDHEUgiTgpa00gLAr2ch6rcqkng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j3vMvBYPXEU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T18:15:04Z",
+        "channelId": "UC6hmAN2FLzB8-Fzzu7evKgA",
+        "title": "Hat sie noch eine Chance bei ihm? 😍❤️‍🩹 |Berlin - Tag &amp; Nacht #2926",
+        "description": "Sina will Jonas zurückgewinnen, denn ihre Gefühle für ihn gehen einfach nicht weg. Doch Joans scheint sich schon anderweitig ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j3vMvBYPXEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j3vMvBYPXEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j3vMvBYPXEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Berlin - Tag & Nacht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T18:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qOw-YVdPZHtxUYDl3pdK1AUfBj8",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC_PEY4YWHT0N9Gk2QrXzSKA"
+      },
+      "snippet": {
+        "publishedAt": "2008-10-23T18:08:26Z",
+        "channelId": "UC_PEY4YWHT0N9Gk2QrXzSKA",
+        "title": "BTN Noticias ",
+        "description": "BUENAS TARDES NICARAGUA BTN Noticias es un programa radial transmitido en redes sociales, con el fin de comentar las ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QNzsy-ZPfP1mKNhUoVx6w-WlYk-N2bugywL-pENLfRZssWcGozWHuQ0WG190MkxnnkfN9YMt=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QNzsy-ZPfP1mKNhUoVx6w-WlYk-N2bugywL-pENLfRZssWcGozWHuQ0WG190MkxnnkfN9YMt=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QNzsy-ZPfP1mKNhUoVx6w-WlYk-N2bugywL-pENLfRZssWcGozWHuQ0WG190MkxnnkfN9YMt=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BTN Noticias ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-10-23T18:08:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jDt2AoZjEyA4OMIa54qLe-ctNQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X027v62m6p4"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T07:56:10Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "India To Overtake China in Population",
+        "description": "The UN released its State of World Population report today, and a new country is about to take the lead from China as the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X027v62m6p4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X027v62m6p4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X027v62m6p4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T07:56:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RSXZTwQcx0pnhN2JHAN0Is9Atrs",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCBt2OspH0nPnsgWvmG_aChA"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-25T15:13:02Z",
+        "channelId": "UCBt2OspH0nPnsgWvmG_aChA",
+        "title": "BTN Live",
+        "description": "The home of Bustthenet Livestreams and Shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/GHVj-Muvqanp5IyyS9LCnwwDZu8xXHlRKQBP5KzVYrTRpxe3P0qEWHRfKtEsp5ow50sLI-xKGA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/GHVj-Muvqanp5IyyS9LCnwwDZu8xXHlRKQBP5KzVYrTRpxe3P0qEWHRfKtEsp5ow50sLI-xKGA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/GHVj-Muvqanp5IyyS9LCnwwDZu8xXHlRKQBP5KzVYrTRpxe3P0qEWHRfKtEsp5ow50sLI-xKGA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BTN Live",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-25T15:13:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2I_KR66qcQVUlqJtFNSV3y3V9wY",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCHfAKj1abayL2bSEi3Tc9UA"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-21T12:36:03Z",
+        "channelId": "UCHfAKj1abayL2bSEi3Tc9UA",
+        "title": "BTN Barak Television Network",
+        "description": "Barak Communication is the Multi System Operator running from Silchar. Barak Communication started its journey in the field of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqNiYsiWh5AHJtX-lEEYO4YlZVpTixLl2BajRUm2=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqNiYsiWh5AHJtX-lEEYO4YlZVpTixLl2BajRUm2=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqNiYsiWh5AHJtX-lEEYO4YlZVpTixLl2BajRUm2=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BTN Barak Television Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-21T12:36:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LJRD5IaKmWrBZQMYdBB4bo7yN9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KLJ_yNqKLDU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T18:44:37Z",
+        "channelId": "UC4LeRw7pIZ_kseS4Krn_DQA",
+        "title": "Rick Spielman on the B1G Players in the 2023 NFL Draft; Nebraska&#39;s Matt Rhule Previews Spring Game",
+        "description": "0:00 - Rick Spielman Evaluates Big Ten Talent in the NFL Draft 10:52 - Nebraska Coach Matt Rhule Previews Huskers Spring ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLJ_yNqKLDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLJ_yNqKLDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLJ_yNqKLDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Big Ten Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T18:44:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "soKFkpBzPgcqESM_Nl0WdEKCYsk",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC0EIM3an0zlk5Mtt6dGldkA"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-30T10:44:49Z",
+        "channelId": "UC0EIM3an0zlk5Mtt6dGldkA",
+        "title": "BTN TV RWANDA",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqMWPueO1v-zSDzO0bbxmAr-8mLGx8Rn9izdQaSO-A=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqMWPueO1v-zSDzO0bbxmAr-8mLGx8Rn9izdQaSO-A=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqMWPueO1v-zSDzO0bbxmAr-8mLGx8Rn9izdQaSO-A=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BTN TV RWANDA",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2015-08-30T10:44:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l69pcTiH9806jxgRm82Y_IuW3BA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pbwhm8yqP2g"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-02T10:00:26Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "Should Parents Be Allowed To Share Things About Their Kids Online? - BTN High",
+        "description": "To share or not to share? We take a look at what 'sharenting' is and ask high schoolers their thoughts about parents sharing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pbwhm8yqP2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pbwhm8yqP2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pbwhm8yqP2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-02T10:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b00c8EvB53panp25xSD4-vNBdGg",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC8mGB0hnmSpciQrTFo_Ssmg"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-13T07:53:32Z",
+        "channelId": "UC8mGB0hnmSpciQrTFo_Ssmg",
+        "title": "BTN",
+        "description": "We give away cars and cash Boost The North Toronto, Canada.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/fnRZpPfzxXbltjQQexfZ8qcl4z8f72lsE1Yu1PsPpNRND2hwMrC2JQAf1M_xh9QLpEjMi2ucbpI=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/fnRZpPfzxXbltjQQexfZ8qcl4z8f72lsE1Yu1PsPpNRND2hwMrC2JQAf1M_xh9QLpEjMi2ucbpI=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/fnRZpPfzxXbltjQQexfZ8qcl4z8f72lsE1Yu1PsPpNRND2hwMrC2JQAf1M_xh9QLpEjMi2ucbpI=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BTN",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2017-12-13T07:53:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TegEMiLmUz6ivkTCz3w3tW_NlbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JGUsQm_lCm0"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-18T04:50:40Z",
+        "channelId": "UCSokI_oUO8bBRL8gRsyq-lQ",
+        "title": "BTN",
+        "description": "Provided to YouTube by Century Media BTN · Architects The Here and Now ℗ 2011 Century Media Released on: 2012-07-16 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGUsQm_lCm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGUsQm_lCm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGUsQm_lCm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Architects - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-18T04:50:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wy--kLXVcMQKta3IlVj6C_IHaTM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_zeUdtx_KAI"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-15T08:36:22Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "Hawaii&#39;s Kilauea Volcano - Behind the News",
+        "description": "There have been some pretty amazing pictures from the island of Hawaii. A volcano there, named Kilauea, has been erupting and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_zeUdtx_KAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_zeUdtx_KAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_zeUdtx_KAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-15T08:36:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0aAEg-c-yqDggS9VKyeL6ePstGU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "trM3wdL5L5k"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T07:17:59Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "How To Watch The Solar Eclipse",
+        "description": "SOLAR ECLIPSE Tomorrow, Australia will experience its first total solar eclipse in years and thousands of people are flocking to a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/trM3wdL5L5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/trM3wdL5L5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/trM3wdL5L5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T07:17:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ISixjSZs2HzB8cGi3OUlrkrhnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IzJqOQ2F8Ec"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T18:15:01Z",
+        "channelId": "UC6hmAN2FLzB8-Fzzu7evKgA",
+        "title": "Hilfe! Ich brauche Abstand!! 😒😵‍💫 |Berlin - Tag &amp; Nacht #2924",
+        "description": "Chiara braucht Abstand! Malte geht ihr in letzter Zeit nämlcih ziemlich auf die Nerven. Wie kann sie ihm klar machen, dass sie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IzJqOQ2F8Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IzJqOQ2F8Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IzJqOQ2F8Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Berlin - Tag & Nacht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-18T18:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a5uIiCMaqmetOKzQJsaNbqXlksU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wal3Oijvb7U"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-30T07:30:10Z",
+        "channelId": "UCxcrzzhQDj5zKJbXfIscCtg",
+        "title": "Should Parents Be Allowed To Share Things About Their Kids Online? | BTN High",
+        "description": "To share or not to share? We take a look at what 'sharenting' is and ask high schoolers their thoughts about parents sharing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wal3Oijvb7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wal3Oijvb7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wal3Oijvb7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News In-depth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-30T07:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EWiMzCZ-gjt68EIxfGoEDSpJwQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Sm6A5IZtRQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T00:15:00Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "Concussion Class Action - BTN High",
+        "description": "A group of former AFL players are taking the league to court over the long-term effects they've suffered from concussion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Sm6A5IZtRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Sm6A5IZtRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Sm6A5IZtRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T00:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eXgVjspPvhDWGTEP2-EqCTbqePY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fynOieWraJc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T22:00:18Z",
+        "channelId": "UC6hmAN2FLzB8-Fzzu7evKgA",
+        "title": "WTF: Der DJ bedrängt sie! 😵‍💫😳 |Berlin - Tag &amp; Nacht #2925",
+        "description": "Vannessa will Leif mit dem neuem DJ eifersüchtig machen. Leider geht ihr Versuch nach hinten los, denn der DJ fängt an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fynOieWraJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fynOieWraJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fynOieWraJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Berlin - Tag & Nacht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-18T22:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pjHIiLzX3TsvEVNxMu-Cuyun5qk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_ZAuqpQ_nFw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T09:30:11Z",
+        "channelId": "UCxcrzzhQDj5zKJbXfIscCtg",
+        "title": "What is the Doomsday Clock? | BTN High",
+        "description": "The Doomsday Clock, which is run by a group of atomic scientists, tells us when life as we know it will end. In 2023, the clocks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ZAuqpQ_nFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ZAuqpQ_nFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZAuqpQ_nFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News In-depth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T09:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0Mk8o7aMx3g8q7mIFtw9YAk6VAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "em_xargVko4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T22:30:06Z",
+        "channelId": "UCxcrzzhQDj5zKJbXfIscCtg",
+        "title": "What’s Happening to the Ozone Layer? | BTN High",
+        "description": "The Ozone layer is a crucial layer of protection for all life on earth, but for decades it's been disappearing. We find out how it's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/em_xargVko4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/em_xargVko4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/em_xargVko4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News In-depth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T22:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lf9xcy9pkvO0wmiiim91-e_uiiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qQwaORAS8r4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T22:30:09Z",
+        "channelId": "UCcbE7twlpJfQVF2dO21fB1A",
+        "title": "SA students react to mobile phone ban - BTN High",
+        "description": "Could you lock your phone away, all day? Some high schools in South Australia are already making students do that under a new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qQwaORAS8r4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qQwaORAS8r4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qQwaORAS8r4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Behind the News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T22:30:09Z"
+      }
+    }
+  ]
+}
